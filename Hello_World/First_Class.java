@@ -18,7 +18,7 @@ public class First_Class
     public First_Class()
     {
         // initialise instance variables
-        x = 5;
+        x = 7;
     }
 
     /**
